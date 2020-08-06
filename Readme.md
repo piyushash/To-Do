@@ -1,2 +1,5 @@
 # To-do list
-kjfhsdjkfh
+## Technology used:
+* HTML
+* JS
+* CSS
